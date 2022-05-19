@@ -2,9 +2,9 @@
 
 ---
 
--Author: Andy (Hyoungjoo) Kim
--Tutorial by : Indigo Code
--video link : https://www.youtube.com/watch?v=kB0ZVUrI4Aw
+- Author: Andy (Hyoungjoo) Kim
+- Tutorial by : Indigo Code
+- video link : https://www.youtube.com/watch?v=kB0ZVUrI4Aw
 
 ---
 
